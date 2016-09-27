@@ -1,10 +1,15 @@
 
-very first
-you will need to be using chrome
-install this extension https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl'
+first
 
-and install this chrome app
+you will need to be using chrome
+
+install this extension 
+https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl'
+
+and install this app
 https://chrome.google.com/webstore/search/gitter.im?hl
 
-Instructions for Interns
-will need to create you own branch named solely after your github username
+Communications
+https://gitter.im/Delta-tango/Lobby
+
+Next, everyone will need their own branch. Please use your github username.
